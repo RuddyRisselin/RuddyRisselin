@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruddyrisselin&label=Profile%20views&color=0e75b6&style=flat" alt="ruddyrisselin" /> </p>
 
-- 🔭 I’m currently working on [ft_transcendence](https://github.com/RuddyRisselin/ft_transcendence42)
+- 🔭 I’m currently working on [Freelance Projects](https://github.com/RuddyRisselin)
 
 - 🌱 I’m currently learning **Typescript, tailwind css**
 
